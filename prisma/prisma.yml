@@ -1,0 +1,2 @@
+endpoint: https://eu1.prisma.sh/mostafa-sholkamy/chat-api/dev
+datamodel: datamodel.graphql
